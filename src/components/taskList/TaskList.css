@@ -37,6 +37,10 @@ h1 {
   color: white;
 }
 
+.add:hover {
+  box-shadow: 5px 5px 10px;
+}
+
 .edit {
   background-color: greenyellow;
 }
@@ -44,6 +48,10 @@ h1 {
 .delete {
   background-color: rgb(227, 66, 66);
   color: white;
+}
+
+.delete:hover {
+  box-shadow: 5px 5px 10px;
 }
 
 .save {
